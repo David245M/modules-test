@@ -2,3 +2,7 @@
 	path = frontend-modules
 	url = https://github.com/David245M/frontend-modules
 	branch = master
+[submodule "admin-modules"]
+	path = admin-modules
+	url = https://github.com/David245M/admin-modules
+  branch=main
